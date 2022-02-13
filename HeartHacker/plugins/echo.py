@@ -49,7 +49,7 @@ async def echo(event):
                      await event.reply("The user is already enabled with echo ")
                      return
                  addecho(user_id, chat_id)
-                 await event.reply("Echo activated On the user ✅")
+                 await event.reply("🍷Eᴄʜᴏ ᴀᴄᴛɪᴠᴀᴛᴇᴅ Oɴ ᴛʜᴇ ᴜsᴇʀ ✅")
      else:
           await event.reply(usage)
 
@@ -78,7 +78,7 @@ async def echo(event):
                 pass
             if is_echo(user_id, chat_id):
                 remove_echo(user_id, chat_id)
-                await event.reply("Echo has been stopped for the user ☑️")
+                await event.reply("🍷 Eᴄʜᴏ ʜᴀs ʙᴇᴇɴ sᴛᴏᴘᴘᴇᴅ ғᴏʀ ᴛʜᴇ ᴜsᴇʀ 🚏")
             else:
                 await event.reply("The user is not activated with echo")
      else:
