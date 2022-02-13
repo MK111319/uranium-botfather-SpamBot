@@ -15,7 +15,7 @@ from datetime import datetime
 RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/fff09af1b7a8dc474aacf.jpg"
   
 
-rizoel = "✯ 𝗡𝗢𝗕𝗜𝗧𝗔 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧𝗦 ✯\n\n"
+rizoel = "✯ ⚔️ 𝙐𝙍𝘼𝙉𝙄𝙐𝙈 ✘ 𝙎𝙋𝘼𝙈𝘽𝙊𝙏 ⚔️ ✯\n\n"
 rizoel += f"═══════════════════\n"
 rizoel += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 rizoel += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
@@ -30,8 +30,8 @@ async def alive(event):
                                   caption=rizoel,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/distroyspam"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/OPSPAMMERKING")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/URANIUM_OP"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/URANIUM_FIGHTERS")
         ],
         [
         Button.url("• ʀᴇᴘᴏ •", "https://github.com/kuldiprathod/HeartHackerSpamBot")
@@ -83,7 +83,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"𝐏𝐎𝐍𝐆\n\nϟ 𝙉𝙊𝘽𝙄𝙏𝘼 𝙎𝙋𝘼𝙈 𝘽𝙊𝙏𝙎 ϟ︎ `{ms}` ᴍs")
+        await event.edit(f"🍷🇵 🇴 🇳 🇬🍷\n\n ⚔️ 𝙐𝙍𝘼𝙉𝙄𝙐𝙈 ✘ 𝙎𝙋𝘼𝙈𝘽𝙊𝙏 ⚔️ `{ms}` ᴍs")
         
         
 
@@ -99,7 +99,7 @@ async def ping(e):
 @Riz10.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "**Restarting Your 𝙉𝙊𝘽𝙄𝙏𝘼 𝙎𝙋𝘼𝙈 𝘽𝙊𝙏**.. Please Wait Until It Starts Again"
+        text = "**Restarting Your ⚔️ 𝙐𝙍𝘼𝙉𝙄𝙐𝙈 ✘ 𝙎𝙋𝘼𝙈𝘽𝙊𝙏 ⚔️**.. Please Wait Until It Starts Again"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await Riz.disconnect()
@@ -171,7 +171,7 @@ async def tb(event):
             newsudo = f"{sudousers} {target}"
         else:
             newsudo = f"{target}"
-        await ok.edit(f"**Added `{target}` ** as a sudo user 🔱 Restarting.. Please wait a minute...")
+        await ok.edit(f"**Added `{target}` ** as a sudo user 🍷 Restarting.. Please wait a minute...")
         heroku_var[rizoel] = newsudo   
    
      
