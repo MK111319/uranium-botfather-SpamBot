@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>𝗡𝗢𝗕𝗜𝗧𝗔 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧</b>
+  <b> 𝗨𝗥𝗔𝗡𝗜𝗨𝗠 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/AT-WORLDS-END/HeartHackerSpamBot?style=flat-square&color=orange)](https://github.com/AT-WORLDS-END/HeartHackerSpamBot/fork)
@@ -8,7 +8,7 @@
    
 ----
  
-- [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
+- [x] ⚔️ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ⚔️
 - [x] Deploy 10 Bots in One time 🔥
 - [x] Deploy Using Bot Token 
 
@@ -18,11 +18,11 @@
 
 
 # Support & Updates
-* [Channel](https://t.me/distroyspam)
-* [Support Group](https://t.me/OPSPAMMERKING)
+* [Channel](https://t.me/URANIUM_OP)
+* [Support Group](https://t.me/URANIUM_FIGHTERS)
 
 # Credits
-* [MR_NOBI_XD Creator](https://t.me/OPSPAMMERKING)
+* [MR_NOBI_XD Creator](https://t.me/URANIUM_FIGHTERS)
 
 
 * for [Telethon.](https://github.com/LonamiWebs/Telethon)
