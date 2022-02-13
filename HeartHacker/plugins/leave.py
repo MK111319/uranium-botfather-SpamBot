@@ -30,7 +30,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(Xd))
-                await event.edit("Succesfully Left ✅")
+                await event.edit("𝚂𝚄𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙻𝙴𝙵𝚃 ✅")
             except Exception as e:
                 await event.edit(str(e))   
         else:
