@@ -9,7 +9,7 @@ HELP_PIC = "https://telegra.ph/file/20cdd3d7d96a1c080e63a.jpg"
 
 Riz_Help = "⚔️ 𝙐𝙍𝘼𝙉𝙄𝙐𝙈 ✘ 𝙎𝙋𝘼𝙈𝘽𝙊𝙏 ⚔️\n\n"
  
-Riz_Help += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ⚔️ 𝙐𝙍𝘼𝙉𝙄𝙐𝙈 ✘ 𝙎𝙋𝘼𝙈𝘽𝙊𝙏 ⚔️__\n\n"
+Riz_Help += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ⚔️ 𝙐𝙍𝘼𝙉𝙄𝙐𝙈 𝙎𝙋𝘼𝙈 𝘽𝙊𝙏 ⚔️__\n\n"
 
 Riz_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
