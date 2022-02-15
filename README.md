@@ -18,7 +18,7 @@
 
 
 # Support & Updates
-* [Channel](https://t.me/URANIUM_OP)
+* [Channel](https://t.me/ABOUT_URANIUM_XD)
 * [Support Group](https://t.me/URANIUM_FIGHTERS)
 
 # Credits
