@@ -22,7 +22,7 @@
 * [Support Group](https://t.me/URANIUM_FIGHTERS)
 
 # Credits
-* [THE_URANIUM_XD Creator](https://t.me/URANIUM_FIGHTERS)
+* [Creator](https://t.me/THE_URANIUM)
 
 
 * for [Telethon.](https://github.com/LonamiWebs/Telethon)
