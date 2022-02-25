@@ -34,7 +34,7 @@ async def alive(event):
         Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/URANIUM_FIGHTERS")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Uranium77/uranium-botfather-SpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FUranium77%2Furanium-botfather-SpamBot&template=https%3A%2F%2Fgithub.com%2FUranium77%2Furanium-botfather-SpamBot")
         ]
         ]
         )
