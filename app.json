@@ -1,7 +1,7 @@
 {
-      "name": "Heart Hacker Spam",
+      "name": "URANIUM Spam",
       "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-      "logo": "",
+      "logo": "https://telegra.ph/file/3275b2665ea2e062f61b8.jpg",
       "keywords": [
         "telegram",
         "telethon",
@@ -80,7 +80,7 @@
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "1689542319",
+            "value": "5267349380",
             "required": true
         },
         "HEROKU_API_KEY": {
